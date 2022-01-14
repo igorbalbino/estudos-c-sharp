@@ -1,0 +1,7 @@
+C:\Users\igorb\Documents\GitHub\estudo_c#\gerenciador de comandas\gerenciador\gerenciador\bin\Debug\gerenciador.exe.config
+C:\Users\igorb\Documents\GitHub\estudo_c#\gerenciador de comandas\gerenciador\gerenciador\bin\Debug\gerenciador.exe
+C:\Users\igorb\Documents\GitHub\estudo_c#\gerenciador de comandas\gerenciador\gerenciador\bin\Debug\gerenciador.pdb
+C:\Users\igorb\Documents\GitHub\estudo_c#\gerenciador de comandas\gerenciador\gerenciador\obj\Debug\gerenciador.csproj.AssemblyReference.cache
+C:\Users\igorb\Documents\GitHub\estudo_c#\gerenciador de comandas\gerenciador\gerenciador\obj\Debug\gerenciador.csproj.CoreCompileInputs.cache
+C:\Users\igorb\Documents\GitHub\estudo_c#\gerenciador de comandas\gerenciador\gerenciador\obj\Debug\gerenciador.exe
+C:\Users\igorb\Documents\GitHub\estudo_c#\gerenciador de comandas\gerenciador\gerenciador\obj\Debug\gerenciador.pdb

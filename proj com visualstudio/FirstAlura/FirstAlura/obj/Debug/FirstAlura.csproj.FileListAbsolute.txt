@@ -1,0 +1,7 @@
+C:\Users\igorb\Documents\GitHub\estudo_c#\proj com visualstudio\FirstAlura\FirstAlura\bin\Debug\FirstAlura.exe.config
+C:\Users\igorb\Documents\GitHub\estudo_c#\proj com visualstudio\FirstAlura\FirstAlura\bin\Debug\FirstAlura.exe
+C:\Users\igorb\Documents\GitHub\estudo_c#\proj com visualstudio\FirstAlura\FirstAlura\bin\Debug\FirstAlura.pdb
+C:\Users\igorb\Documents\GitHub\estudo_c#\proj com visualstudio\FirstAlura\FirstAlura\obj\Debug\FirstAlura.csproj.AssemblyReference.cache
+C:\Users\igorb\Documents\GitHub\estudo_c#\proj com visualstudio\FirstAlura\FirstAlura\obj\Debug\FirstAlura.csproj.CoreCompileInputs.cache
+C:\Users\igorb\Documents\GitHub\estudo_c#\proj com visualstudio\FirstAlura\FirstAlura\obj\Debug\FirstAlura.exe
+C:\Users\igorb\Documents\GitHub\estudo_c#\proj com visualstudio\FirstAlura\FirstAlura\obj\Debug\FirstAlura.pdb

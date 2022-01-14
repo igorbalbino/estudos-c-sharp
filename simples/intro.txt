@@ -1,0 +1,4 @@
+tem q baixar o .NET framework.
+nomrmalmente fica em C://windows/Microsoft..NET/framework/v4.....
+
+coloca a pasta no path das var de ambiente e usa no cmd o comando "csc"
