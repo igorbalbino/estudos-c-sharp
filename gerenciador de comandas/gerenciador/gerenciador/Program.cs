@@ -13,24 +13,8 @@ cada pedido terá um código que se alto encrementa para cada nova comanda gerad
 O sistema deve ter entrada para saber quando houve o pagamento e calcular troco.
  */
 
-namespace Gerenciador
+namespace gerenciador
 {
-    public class Comanda
-    {
-        public int id;
-        public string nome;
-        public string pedido;
-        public bool comandaPaga = false;
-
-        public Comanda(int id, string nome, string pedido)
-        {
-            this.id = id;
-            this.nome = nome;
-            this.pedido = pedido;
-        }
-
-    }
-
     public class Program
     {
         //vars
@@ -130,11 +114,12 @@ namespace Gerenciador
 
             for (int i = 0; i < comandas.Count; i++)
             {
-                if (comandas[i].comandaPaga == false)
+                if (comandas[i].Status == false)
                 {
                     Console.WriteLine("ID da comanda: " + comandas[i].id);
                     Console.WriteLine("Nome do cliente: " + comandas[i].nome);
                     Console.WriteLine("Pedido do cliente: " + comandas[i].pedido);
+                    Console.WriteLine("");
                 }
             }
 
@@ -166,7 +151,7 @@ namespace Gerenciador
             switch(optInt)
             {
                 case 1:
-                    for (int i = 0; i < comandas.Count; i++) if (comandas[i].id == nmr) comandas[i].comandaPaga = true;
+                    for (int i = 0; i < comandas.Count; i++) if (comandas[i].id == nmr) comandas[i].Status = true;
                     telaInicial();
                     break;
 
